@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and cloud technologies
 - 🌱 I’m currently learning "how to code masterfully"
 - 💞️ I’m looking to collaborate on "robotics and cloud technologies"
-- 📫 reach me via email "ajit.rai@gmail.com"
 
 <!---
 wrapper31/wrapper31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
